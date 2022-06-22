@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afwan-Pratama
-- 👀 I’m interested in Front End Dev
+- 👀 I’m interested in Front End Dev and Customizing Linux Desktop
 - 🌱 I’m currently learning React JS
 
 <!---
