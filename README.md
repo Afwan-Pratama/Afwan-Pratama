@@ -1,6 +1,6 @@
 <div align=center>
-<p> 👋 Hi, I’m @Afwan-Pratama</p>
-<p>👀 I’m interested in Front End Dev and Customizing Linux Desktop</p>
+<h1> 👋 Hi, I’m @Afwan-Pratama</h1>
+<h2>👀 I’m interested in Front End Dev and Customizing Linux Desktop</h2>
 
 [![Afwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Afwan-Pratama&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
